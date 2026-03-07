@@ -2,3 +2,7 @@
 M3D: A Benchmark Dataset and Model for Microscopic 3D Shape Reconstruction
 
 Microscopic 3D shape reconstruction using depth from focus (DFF) is crucial in precision manufacturing for 3D modeling and quality control. However, the absence of high-precision microscopic DFF datasets and the significant differences between existing DFF datasets and microscopic DFF data in op-tical design, imaging principles and scene characteristics hinder the performance of current DFF models in microscopic tasks. To address this, we introduce M3D, a novel microscopic DFF dataset, constructed using a self-developed microscopic device. It includes multi-focus image sequences of 1,952 scenes across five categories, with depth labels generated via the 3D TFT algorithm and depth calibration. We also propose M3DNet, a frequency-aware end-to-end network, to tackle challenges like shallow depth of field (DoF) and weak textures. Results show that M3D compensates for the limitations of macroscopic DFF datasets and extends DFF applications to microscopic scenarios. M3DNet effectively captures rapid focus decay and enhances public DFF dataset performance through superior global feature extraction.
+
+# M3D_Test
+通过网盘分享的文件：M3D_Test
+链接: https://pan.baidu.com/s/1oFK0VtQ2R88iSiGkTWOnvA?pwd=6uuw 提取码: 6uuw
